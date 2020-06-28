@@ -1,0 +1,10 @@
+
+.moviecontainer{
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-grow: inherit;
+}
+ .moviecard{
+    margin-left: 20px;
+ }

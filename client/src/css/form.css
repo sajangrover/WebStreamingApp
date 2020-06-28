@@ -1,0 +1,15 @@
+.form {
+    width: 50%;
+}
+
+.links{
+    margin-top: 100px;
+    display: flex;
+}
+.signin, .register{
+    width: 100%;
+}
+
+.submit {
+    width: 100%;
+}
